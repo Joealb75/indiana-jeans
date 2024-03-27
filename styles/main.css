@@ -1,0 +1,15 @@
+#container {
+   
+    
+}
+
+.newData {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    border: 1px solid black ;
+    width: 120px;
+    margin: 5px 5px;
+    padding: 3px;
+}
